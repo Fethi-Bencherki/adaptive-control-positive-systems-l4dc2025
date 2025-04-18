@@ -2,9 +2,9 @@ The code accompanies the paper "Adaptive Control of Positive Systems with Applic
 
 This repository contains code implementations of:
 
-    The adaptive control algorithm described in the paper: https://arxiv.org/abs/2412.17012
+*The adaptive control algorithm described in the paper: https://arxiv.org/abs/2412.17012
 
-    The Q-learning algorithm presented in the paper: https://web.mit.edu/dimitrib/www/Qlearning_Bounded_MOR.pdf
+The Q-learning algorithm presented in the paper: https://web.mit.edu/dimitrib/www/Qlearning_Bounded_MOR.pdf
 
 We compare the performance of these two algorithms in solving the Stochastic Shortest Path (SSP) problem.
 
